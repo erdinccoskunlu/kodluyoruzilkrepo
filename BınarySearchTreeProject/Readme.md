@@ -2,4 +2,4 @@
 
 ## www.patika.dev
 
-![binary search tree](C:\Users\erdin\PatikaProjects\BınarySearchTreeProject\BinarySearchTree.png)
+![binary search tree](https://github.com/erdinccoskunlu/kodluyoruzilkrepo/blob/main/B%C4%B1narySearchTreeProject/BinarySearchTree.png)
