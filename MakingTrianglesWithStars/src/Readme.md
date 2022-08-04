@@ -1,3 +1,3 @@
-# Yıldızlar ile Üçgen Yapımı (Making Triangles With Stars)
+# Yıldızlar ile Elmas Yapımı (Making Diamond With Stars)
 
 ## www.patika.dev 
