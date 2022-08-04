@@ -1,3 +1,3 @@
-# Yıldılar ile Üçgen Yapımı (Making Triangles With Stars)
+# Yıldızlar ile Üçgen Yapımı (Making Triangles With Stars)
 
 ## www.patika.dev 
